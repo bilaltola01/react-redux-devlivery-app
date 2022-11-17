@@ -120,7 +120,7 @@
     "resolve-url-loader": "^2.3.0",
     "rimraf": "^2.6.2",
     "style-loader": "^0.21.0",
-    "svg-url-loader": "^2.3.2",
+    "svg-url-loader": "^8.0.0",
     "svgr": "^1.10.0",
     "url-loader": "^1.0.1",
     "webpack": "^4.10.0",
