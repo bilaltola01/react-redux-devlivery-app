@@ -66,7 +66,7 @@
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
-    "@babel/core": "7.0.0-beta.49",
+    "@babel/core": "7.20.12",
     "@babel/node": "7.0.0-beta.49",
     "@babel/plugin-transform-react-constant-elements": "7.0.0-beta.49",
     "@babel/plugin-transform-react-inline-elements": "7.0.0-beta.49",
@@ -120,7 +120,7 @@
     "resolve-url-loader": "^2.3.0",
     "rimraf": "^2.6.2",
     "style-loader": "^0.21.0",
-    "svg-url-loader": "^2.3.2",
+    "svg-url-loader": "^2.3.3",
     "svgr": "^1.10.0",
     "url-loader": "^1.0.1",
     "webpack": "^4.10.0",
